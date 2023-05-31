@@ -1,7 +1,5 @@
 FROM       node:alpine 
 
-MAINTAINER https://github.com/anders94/blockchain-demo
-
 EXPOSE     3000
 
 WORKDIR    /blockchain-demo 
